@@ -1,6 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaimehp05&label=Profile%20views&color=0e75b6&style=flat" alt="JaimeHP05" /> </p>
 
-<h1 align="center">Alola! 👋 I'm Jaime</h1>
+<h1 align="center">
+  Alola! 👋 I'm Jaime
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png" alt="Mudkip" />
+</h1>
 <h3 align="left">Software Engineering [2nd Year]</h3>
 <h3 align="left">C++ / C / Bash / Python</h3>
 <h3 align="left">Learning Backend & Frontend</h3>
