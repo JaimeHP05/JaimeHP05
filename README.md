@@ -51,3 +51,11 @@
       <p>Spanish commented codes that I have done in Bash as part of the course Programming and System Administration. These exercises are designed to develop skills in task automation, system administration and scripting in Linux environments.</p>
     </td>
   </tr>
+
+<table>
+  <tr>
+    <td>
+      <h4><a href="https://github.com/JaimeHP05/C.git" target="_blank">C</a></h4>
+      <p>Spanish commented programs developed in C that cover subjects such as Programming Methodology or Operating Systems.</p>
+    </td>
+  </tr>
