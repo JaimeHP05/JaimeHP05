@@ -4,7 +4,7 @@
   Alola! 👋 I'm Jaime
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png" alt="Mudkip" />
 </h1>
-<h3 align="left">Software Engineering [2nd Year]</h3>
+<h3 align="left">Software Engineering</h3>
 <h3 align="left">Learning Backend & Frontend</h3>
 <h3 align="left">Always up to leading team proyects</h3>
 <h3 align="left">Free Software Club UCO & SalmorejoTech</h3>
